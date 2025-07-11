@@ -1,6 +1,7 @@
 ## ¡Hola, Mundo! 🌍
-¡Bienvenidos a mi perfil! Soy Christian, un apasionado de la programación 💻 y la creatividad. Aquí encontrarás mis proyectos, ideas y colaboraciones. ¡Acompáñame en este viaje! 🚀
+¡Bienvenidos a mi perfil! Soy Christian Galarza, un apasionado de la programación 💻 y la creatividad. Aquí encontrarás mis proyectos, ideas y colaboraciones. ¡Acompáñame en este viaje! 🚀
 Sobre mí
+- Estudio Ingenieria Informatica
 - Amante de los desafíos 🎯
 - Aficionado a los videojuegos 🎮
 - Explorando nuevas tecnologías 🚀
