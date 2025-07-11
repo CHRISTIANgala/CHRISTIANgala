@@ -1,4 +1,12 @@
-## Hi there 👋
+## ¡Hola, Mundo! 🌍
+¡Bienvenidos a mi perfil! Soy Christian, un apasionado de la programación 💻 y la creatividad. Aquí encontrarás mis proyectos, ideas y colaboraciones. ¡Acompáñame en este viaje! 🚀
+Sobre mí
+- Amante de los desafíos 🎯
+- Aficionado a los videojuegos 🎮
+- Explorando nuevas tecnologías 🚀
+- Amante del voley 🏐
+
+¡Gracias por visitar mi perfil! 💜
 
 <!--
 **CHRISTIANgala/CHRISTIANgala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
